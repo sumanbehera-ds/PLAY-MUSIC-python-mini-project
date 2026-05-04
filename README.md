@@ -16,8 +16,3 @@ A simple and user-friendly desktop music player built using Python, Tkinter, and
 Python
 Tkinter (GUI)
 Pygame (Audio handling)
-📁 Project Structure
-Music-Player/
-│
-├── music_player.py   # Main application file
-└── README.md         # Project documentation
